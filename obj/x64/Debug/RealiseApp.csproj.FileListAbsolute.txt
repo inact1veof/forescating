@@ -1,0 +1,130 @@
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\LdaNative.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\RealiseApp.exe.config
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\RealiseApp.exe
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\RealiseApp.pdb
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\MetroFramework.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Buffers.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.CodeDom.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Memory.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Buffers.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Memory.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.ResolveComReference.cache
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.mainForm.resources
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.Properties.Resources.resources
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.GenerateResource.cache
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.CoreCompileInputs.cache
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.CopyComplete
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.exe
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.pdb
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\AdysTech.InfluxDB.Client.Net.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\InfluxDB.Net.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Extensions.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Primitives.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Extensions.xml
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Primitives.xml
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.App.config
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\MLModel.zip
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\RealiseAppML.Model.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\RealiseAppML.Model.pdb
+C:\Учеба\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csprojAssemblyReference.cache
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\FastTreeNative.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.FastTree.dll
+C:\Учеба\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.FastTree.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\MLModel.zip
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\FastTreeNative.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\LdaNative.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\RealiseApp.exe.config
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\RealiseApp.exe
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\RealiseApp.pdb
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\AdysTech.InfluxDB.Client.Net.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\InfluxDB.Net.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\MetroFramework.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.FastTree.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\RealiseAppML.Model.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Buffers.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.CodeDom.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Memory.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Extensions.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Primitives.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\RealiseAppML.Model.pdb
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.FastTree.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Buffers.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Memory.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Extensions.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Net.Http.Primitives.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.App.config
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csprojAssemblyReference.cache
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.ResolveComReference.cache
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.mainForm.resources
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.Properties.Resources.resources
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.GenerateResource.cache
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.CoreCompileInputs.cache
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.csproj.CopyComplete
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.exe
+C:\Users\inact1ve\Desktop\Forescating Timeseries\RealiseApp\RealiseApp\obj\x64\Debug\RealiseApp.pdb

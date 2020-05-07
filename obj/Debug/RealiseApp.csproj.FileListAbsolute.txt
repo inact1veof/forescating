@@ -1,0 +1,13 @@
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\bin\Debug\RealiseApp.exe.config
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\bin\Debug\RealiseApp.exe
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\bin\Debug\RealiseApp.pdb
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.Properties.Resources.resources
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.csproj.GenerateResource.cache
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.csproj.CoreCompileInputs.cache
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.exe
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.pdb
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\bin\Debug\MetroFramework.dll
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.csproj.CopyComplete
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.mainForm.resources
+C:\Users\inact1ve\Desktop\RealiseApp\RealiseApp\obj\Debug\RealiseApp.csprojAssemblyReference.cache
